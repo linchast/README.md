@@ -1,0 +1,26 @@
+html, body {
+    color: rgb(35, 32, 115);
+}
+
+footer {
+    background-color: #e0e0e0;
+    color: #999;
+}
+
+    .button_style
+    {
+        padding: 10px;
+        background-color: beige;
+        font-family: monospace;
+        border-radius: 4px;
+    }
+
+
+    #button_reference{
+        text-decoration: none;
+        text-decoration-color: brown;
+    }
+#tableHeader{
+    background-color: lightblue;
+    color: darkblue;
+}
